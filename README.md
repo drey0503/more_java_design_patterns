@@ -1,1 +1,1 @@
-# design_patterns
+# design patterns I practiced in my undergraduate studies at USC
